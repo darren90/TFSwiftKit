@@ -1,0 +1,6 @@
+framework module TFSwiftKit {
+  umbrella header "TFSwiftKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "TFSwiftKit",
+  "version": "0.1.0",
+  "summary": "A short description of TFSwiftKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1005052145@qq.com/TFSwiftKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1005052145@qq.com": "1005052145@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/1005052145@qq.com/TFSwiftKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TFSwiftKit/Classes/**/*"
+}

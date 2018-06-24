@@ -1,0 +1,23 @@
+PODS:
+  - Quick (1.2.0)
+  - TFSwiftKit (0.1.0)
+
+DEPENDENCIES:
+  - Quick (~> 1.2.0)
+  - TFSwiftKit (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Quick
+
+EXTERNAL SOURCES:
+  TFSwiftKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+  TFSwiftKit: c842d978a7fa37f5e0881d4f887802074bbdf18c
+
+PODFILE CHECKSUM: 185eda510f847522a17f75f0a4e8f28c18ea8268
+
+COCOAPODS: 1.5.0
